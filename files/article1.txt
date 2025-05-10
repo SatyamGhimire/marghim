@@ -1,0 +1,84 @@
+#id: 1
+#title: 1 Here comes the title of the page and this sentence has 18 words in it. Isn't that amazing?
+#m_title: Here comes the title
+#m_desc: A demo article to perform the demonstration and this is just a placeholder description.
+#excerpt: This is the subtitle or the excerpt of the page. This can be a little longer than the title but you can have it your own way. This is supposed to hook you further to read the whole thing.
+#slug: from-drive-1
+#tags: humour, satire
+#categories: nice, article, here
+#keywords: key1, key2, key3
+#date: 2024 April 1
+#datem: 2025 April 1
+#pdate: 2024-04-01T09:00:00+05:45
+#mdate: 2025-04-01T09:00:00+05:45
+#photo: ./assets/flower1.jpg
+#alt: beautiful flowers
+
+Okay, so this is the first paragraph which is normal, normal like in it has no style of any kind except the usual inherited from the <:body tag:>. The class <:norm txt:> isn't even selected in the <:styles.css:> file. It is just here as a demo and I don't know, I am just $&typing&some-link-here$ to make it look like a decent length paragraph. Also, :! :: :::: this text :::: :: :! is an inline bold, italic, and blue colour.
+
+:::: I know Lorem ipsum exists, and I should be :: better off :: with that instead of these random sentences, but I like this. Although I am not saying anything, $&I am saying something.&/some/page/here.html$ I wanted to stand out I guess and not be robotic. I hope this is alright. This is the bold paragraph btw, and this has a class of <:bld-txt:>. And this is a :? red inline :? text.
+
+;; ./assets/flower1.jpg
+;@ flower image no 1
+;! very pretty flowers, image by $&Pixaybay on Pexels&https://www.pexels.com/photo/bed-of-flowers-68507/$
+
+:: Okay, italic paragraph here with <:ita-txt:> class. This is nice. This is the third sentence of this paragraph, and this could have been the fourth sentence if I had given a full stop instead of the comma. Instead, this is the fourth sentence. Fifth here. And ^ supscript ^ here, and ~ :! subscript :! ~ here, and the subscript is even blue. Or this is H~2~O.
+
+:? Reddish like blood, or brick. Let's say brick, it's more nice and more safe. I know one shouldn't use the word "more" like that. It's bad writing, ^[1] and maybe I should've written nicer and safer instead. Bad practice!
+
+;- ./assets/flower2.jpg
+;@ flower picture no 2
+;! beautiful flower, image by $&kf zhou on Pexels&https://www.pexels.com/photo/bright-flowers-in-garden-19611629/$
+
+:! Another random paragraph here for demonstration purposes. This has absolutely no meaning and this isn't even building up to anything. This is a totally stupid paragraph that looks blue and bad and isn't necessary at all and is only here to be a $&placeholder.&https://youtube.com$ In short, this is useless but this paragraph didn't ask me to be written. It came here without its consent and now has to endure and suffer, just like :.: all of us :.: I guess. That all of us was inline underline text.
+
+:\ This is like dark mode but inside the light mode. I have reversed the background and foreground colour for this paragraph and that's why this looks like this. Yeah, this is all nonsense. ^[2]
+
+:.: Now I can't not have an underlined paragraph when I have established this zoo already. So this is the reason it exists. Maybe slightly longer as this didn't look nice as compared to other paragraphs. Yeah, now it's better. And below is a table with fruits:
+
+!-(): [(fruits, quantity, rate), (apple, 5kg, Rs 250), (mango, 4kg, Rs 120), (orange, 10kg, Rs 200)]
+
+;+ ./assets/flower3.jpg
+;@ flower number 3
+;! pretty pretty, image by $&Khang  Le on Pexels&https://www.pexels.com/photo/close-up-shot-of-fresh-flowers-11723669/$
+
+:/ I know this is unfair. Blue paragraph already existed above and I shouldn't have created another blue family paragraph. But what can I do? I can't think of another colour and I think we should make do for now with this biasness. I am sorry. Please imagine this colour as something else, something which will make the distribution fair.
+
+:# Green is the color of nature. But really, they are lying. Nature is black. The nature that we think of when we say nature is't nature at all. It's so tiny compared to the real nature out there. To look at the real nature, look up. The stars, planets, black holes, galaxies,^[3] they are the real nature with more coverage. The rivers, the flowers, forests, they take so little space in the pie chart of nature.
+
+Anyway, here are the coloured paragraphs that have appeared, but first enjoy another table some empty items:
+
+!-(): [(prime, composite, empty_sometime), (2, 4, not empty), (3, 5, wrong), (7, 6, ), (11, 8, )]
+
+-: red paragraph, blue paragraph, green paragraph, purple paragraph, white paragraph
+
+::: And this is a highlighted paragraph, and this is now rendered with a border left of 8px, and this might look like a quote by someone really famous or important. But again this is just here for the demonstration purpose and nothing else. Thank you. - by someone famous^[4].
+
+<>
+<pre>
+<code>
+	a = 5
+		b = 10
+							print(a+b) 
+			#commenttttt
+</code>
+</pre>
+</>
+
+I know I could have written better code than above. Although this is all, like I have said already a thousand times, for demonstration purposes, still this is setting the bar so low. I should have thought more. This would give an indentation error. This is extreme laziness. Anyway, below is another list to cheer you up and this time, it is numbered.
+
++: number one, number two, are you not entertained?
+
+:! Enjoy another table now please. Yep, this is once again blue color paragraph:
+
+!-(): [(country, capital, landlocked?, has 'l' in name?), (nepal, kathmandu, yes, yes), (india, new delhi, no, no), (china, beijing, no, no), (england, london, no, yes), (switzerland, geneva, yes, yes)]
+
+:::: Yep, I think this is it. I know this is missing so many things and features, and can be broken easily. This relies heavily on the way you type and one two enter keys are enough to dismantle this amateur wall.But if you follow the rules strictly, I think this method is quite helpful. Thank you for reading if you are reading this. Bye. Take care.
+
+
+[]
+1. yes this is bad writing, trust me
+2. $&yep this is nonsense and please click me to find out why&https://youtube.com$
+3. $&galaxies on wikipedia&https://wikipedia.org$
+4. yes this someone famous really said this
+[/]
